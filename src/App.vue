@@ -8,7 +8,7 @@
 </script>
 
 <template>
-    <div class="h-screen max-w-full bg-gradient-to-r from-slate-800 to-slate-800">
+    <div class="h-screen max-w-full bg-gradient-to-b to-slate-600 from-slate-700 from-60%">
         <div class="h-screen text-center mr-48 ml-48">
             <div class=" p-10 text-pretty text-slate-900 space-y-2">
                 <h1 class="font-bold text-4xl ">Hello, i am <span class="text-blue-500">notacupofmilk.</span></h1>
