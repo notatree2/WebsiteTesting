@@ -17,16 +17,16 @@
                     
                     <!-- button -->
                      <a class="" :href="source">
-                        <button  class="space-y-2 p-5  font-bold rounded-lg shadow-lg bg-slate-700 transition-all hover:bg-slate-600 focus:ring-2 focus:ring-blue-950 overflow-hidden ">Tech Independence Journey 
+                        <button  class="space-y-2 p-5 rounded-xl font-bold shadow-lg bg-slate-700 transition-all hover:bg-slate-600 focus:ring-2 focus:ring-blue-950 overflow-hidden border-blue-700 border-2 ">Tech Independence Journey 
                             <div class=" font-semibold mr-24 ml-24" >
-                                <p>Unfinished project to take back your privacy from big tech by suggesting privacy-respecting alternatives.</p>
+                                <p>Unfinished project to take back your privacy from big tech by suggesting privacy-respecting alternatives. </p>
                             </div>
                         </button>
                      </a>
                      <a class="" :href="youtube">
-                        <button  class="space-y-2 p-5  font-bold rounded-lg shadow-lg bg-slate-700 transition-all hover:bg-slate-600 focus:ring-2 focus:ring-blue-950 overflow-hidden">YouTube
+                        <button  class=" rounded-xl space-y-2 p-5  font-bold  shadow-lg bg-slate-700 transition-all hover:bg-slate-600 focus:ring-2 focus:ring-blue-950 overflow-hidden border-blue-700 border-2">YouTube
                             
-                            <div class=" font-semibold mr-24 ml-24" >
+                            <div class=" font-semibold mr-24 ml-24 " >
                                 <p>You can check out my youtube channel, but i dont post on my YouTube channel very often. </p>
                             </div>
                         </button>
