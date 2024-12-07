@@ -4,6 +4,8 @@
     const source = ref("https://tech-independence-journey.codeberg.page/")
     const youtube = ref("https://www.youtube.com/@notacupofmilk2021")
 
+    // Hey! If you're checking out the source code, this file is being archived for now. Things may change in the future.
+
 
 </script>
 
